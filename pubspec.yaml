@@ -11,11 +11,11 @@ dependencies:
   dio: ^4.0.0
   flutter:
     sdk: flutter
-  flutter_hooks: ^0.16.0
+  flutter_hooks: ^0.18.0
   flutter_localizations:
     sdk: flutter
   freezed_annotation: ^0.14.1
-  hooks_riverpod: ^0.14.0
+  hooks_riverpod: ^1.0.0-dev.7
   http: ^0.13.1
   intl: ^0.17.0
   rive: ^0.7.12
